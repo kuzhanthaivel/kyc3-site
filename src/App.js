@@ -1,7 +1,7 @@
 import { BrowserRouter as Router,Routes,Route,} from "react-router-dom";
 import Main from './pages/Main';
 import SearchBar from "./component/SearchBar.jsx"
-import Videobg2 from "./assets/Videobg2.mp4";
+import Videobg2 from "./assets/videobg2.mp4";
 function App() {
   return (
     <Router>  

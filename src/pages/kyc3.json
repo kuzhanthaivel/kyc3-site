@@ -1,0 +1,15 @@
+{
+"name": "kyc3",
+"description": "A verified badge as NFT",
+"image": "https://ipfs.io/ipfs/QmZ5aGewuHApLQ8FCUzt82o14E5gcKTc8rct99nHNX5Le6/my_nft_image.jpg",
+"attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Blue"
+   },
+   {
+      "trait_type": "Rarity",
+      "value": "Common"
+   }
+]
+}
